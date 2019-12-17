@@ -39,7 +39,7 @@ hidden : true
 # 友情链接
 #### [自行添加](https://github.com/Fantasy9527/alili.tech/blob/master/content/about/_index.md)
 
-
+ - [许久一的博客](https://blog.xujiuyi.xyz)
  - [颜海镜](https://yanhaijing.com/)
  - [小z博客](https://www.xiaoz.me/)
  - [Web前端之家](http://www.jiangweishan.com/)
@@ -54,6 +54,7 @@ hidden : true
  - [极客教程](https://www.geekjc.com)
  - [梦魇小栈](https://blog.ihoey.com)
  - [小丁的个人博客](https://tding.top)
+
 
 
 
